@@ -1,0 +1,4 @@
+runpod
+rembg[gpu]
+pillow
+numpy
